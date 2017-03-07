@@ -1,0 +1,26 @@
+/* 
+  ALComTxt.strings
+  ALMagicWardrobe
+
+  Created by anLun on 15-4-20.
+  Copyright (c) 2015年 anLun. All rights reserved.
+*/
+//Apple ID,可以在iTunes Connect中查到
+"AppleId"="";
+//联系我们电话
+"UsPhone"="400-809-8825";
+//-----------分享相关 start-------------
+"ShareSDKAppKey"="6e1713a955f8";
+"ShareSDKAppSecret"="9016c11d739c6804a306a49a2f93afa2";
+"wxAppKey"="wx00118fe125d59786";
+"wxAppSecret"="a3c42bb0dae0f949f6f1c3bd7dfd0375";
+
+"qqAppKey"="1104505332";
+"qqAppSecret"="3DMLHzkJA1oKTwqD";
+"sinaAppKey"="615008009";
+"sinaAppSecret"="93d23e3fc9b0a2c4873aa464d6fce0db";
+"wbRedirectURI"="https://api.weibo.com/oauth2/default.html";
+//-----------分享相关  end--------------
+
+//-------极光推送---------
+"JPushAppKey"="90a132e88240082ac03e4677";

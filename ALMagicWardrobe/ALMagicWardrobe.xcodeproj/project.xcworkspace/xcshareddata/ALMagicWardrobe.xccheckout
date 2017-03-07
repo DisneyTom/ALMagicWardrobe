@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6605C4F3-0CFB-4D1B-A317-26DCE282D180</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ALMagicWardrobe</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>26cc59f4-3473-4b20-9e9a-1b9625527f78++993</key>
+		<string>svn://101.200.230.3/svnrepos/mfyc/IOS</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ALMagicWardrobe/ALMagicWardrobe.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>26cc59f4-3473-4b20-9e9a-1b9625527f78++993</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>26cc59f4-3473-4b20-9e9a-1b9625527f78++993</key>
+		<string>svn://101.200.230.3/svnrepos</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://101.200.230.3/svnrepos/mfyc/IOS/ALMagicWardrobe/ALMagicWardrobe.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>26cc59f4-3473-4b20-9e9a-1b9625527f78++993</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>26cc59f4-3473-4b20-9e9a-1b9625527f78++993</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
